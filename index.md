@@ -13,7 +13,7 @@
 - **BeamNG.drive - Various Design Projects** [May 2019 - June 2019]
     - Working on various design project including the [WCA Transport Skin Pack](https://www.beamng.com/resources/4ns-west-coast-usa-bus-routes-and-skin-pack.8288/).
 
-##### [CAD
+##### [CAD]
 - **Various School Projects** [September 2018 - Present]
     - Many small scale projects that have been 3D Printed.
 - **F1 in Schools** [October 2019 - February 2020]
