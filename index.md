@@ -11,4 +11,10 @@
 - **ReBasedMc - Logo Design and General Advertising** [July  2017 - January 2019]
   - Working with many custom designs for the server, aimed to promote the server through some of the static custom ads.
 - **BeamNG.drive - Various Design Projects** [May 2019 - June 2019]
-    - Working on various design project including [WCA Transport Skin Pack](https://www.beamng.com/resources/4ns-west-coast-usa-bus-routes-and-skin-pack.8288/).
+    - Working on various design project including the [WCA Transport Skin Pack](https://www.beamng.com/resources/4ns-west-coast-usa-bus-routes-and-skin-pack.8288/).
+
+##### [CAD
+- **Various School Projects** [September 2018 - Present]
+    - Many small scale projects that have been 3D Printed.
+- **F1 in Schools** [October 2019 - February 2020]
+    - Various designing for the F1 in Schools project, including car and wheel design
